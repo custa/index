@@ -27,6 +27,16 @@
 
 		* [《Go语言圣经（中文版）》 -- 在线阅读（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
 
++ ### go包列表
+
+	- [Awesome Go](http://awesome-go.com/)
+	[GitHub](	https://github.com/avelino/awesome-go)
+
+	- [Awesome Go+](https://go.libhunt.com/)
+
+	- [golanglibs](https://golanglibs.com/)
+
+
 
 + ### 博文
 
