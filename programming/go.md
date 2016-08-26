@@ -32,7 +32,7 @@
 	- [Awesome Go](http://awesome-go.com/)
 	[GitHub](	https://github.com/avelino/awesome-go)
 
-	- [Awesome Go+](https://go.libhunt.com/)
+	- [libhunt](https://go.libhunt.com/)
 
 	- [golanglibs](https://golanglibs.com/)
 
