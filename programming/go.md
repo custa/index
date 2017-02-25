@@ -36,6 +36,7 @@
 
 	- [golanglibs](https://golanglibs.com/)
 
+	- [Go web framework benchmark](https://github.com/smallnest/go-web-framework-benchmark)
 
 
 + ### 博文
