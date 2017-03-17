@@ -1,7 +1,9 @@
 
 + ### 官网文档
 
-	- [golang官网](https://golang.org)
+	- [go 官网](https://golang.org)
+
+	- [golang/go Wiki](https://github.com/golang/go/wiki)
 
 	- [Go talks](https://talks.golang.org/)
 
