@@ -25,7 +25,7 @@
 
 		* [Bitbucket -- 私有仓库](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
 
-		* [《Go语言圣经 中文版》gitbook wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+		* [《Go语言圣经 中文版》gitbook.com/book/wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
 		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线阅读（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
 
@@ -51,3 +51,6 @@
 	- [Go的50度灰：Golang新开发者要注意的陷阱和常见错误](http://colobu.com/2015/09/07/gotchas-and-common-mistakes-in-go-golang/)
 
 	- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
+	- [《Effective Go》中英双语版 bingohuang.gitbooks.io](https://bingohuang.gitbooks.io/effective-go-zh-en/content)
+
