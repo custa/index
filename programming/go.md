@@ -27,9 +27,9 @@
 
 		* [《Go语言圣经 中文版》gitbook.com/book/wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
-		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线阅读（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
+		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线预览（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
 
-		* [《Go语言圣经 中文版》hacknode.org -- 在线阅读（构建时间：2017-03-17 04:00:03）](https://docs.hacknode.org/gopl-zh/)
+		* [《Go语言圣经 中文版》hacknode.org -- 在线预览（构建时间：2017-03-17 04:00:03）](https://docs.hacknode.org/gopl-zh/)
 
 
 + ### Go 包列表
