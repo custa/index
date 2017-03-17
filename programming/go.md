@@ -15,17 +15,22 @@
 
 		* [《The Go Programming Language》 -- 松散格式pdf，书末有代码片段](https://ebooks-it.org/0134190440-ebook.htm)<br/>
 
-		* [《The Go Programming Language》 -- www.it-ebooks.info](http://download.csdn.net/download/vanridin/9444684)<br/>
+		* [《The Go Programming Language》 -- www.it-ebooks.info 标记](http://download.csdn.net/download/vanridin/9444684)<br/>
 
 	- gopl 中文
 
-		* [《Go语言圣经中文版》GitHub -- 只接受PR](https://github.com/gopl-zh/gopl-zh.github.com)
+		* [《Go语言圣经 中文版》 https://github.com/gopl-zh/gopl-zh.github.com -- 只接受PR](https://github.com/gopl-zh/gopl-zh.github.com)
+
+		* [《Go语言圣经 中文版》 https://github.com/golang-china/gopl-zh -- 提 issue](https://github.com/golang-china/gopl-zh)
 
 		* [Bitbucket -- 私有仓库](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
 
-		* [《Go语言圣经 中文版》wizardforcel gitbook -- 可下载电子书，7个月前更新](https://www.gitbook.com/book/wizardforcel/gopl-zh/details	)
+		* [《Go语言圣经 中文版》gitbook wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
-		* [《Go语言圣经（中文版）》 -- 在线阅读（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
+		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线阅读（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
+
+		* [《Go语言圣经 中文版》hacknode.org -- 在线阅读（构建时间：2017-03-17 04:00:03）](https://docs.hacknode.org/gopl-zh/)
+
 
 + ### go包列表
 
