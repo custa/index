@@ -32,10 +32,11 @@
 		* [《Go语言圣经 中文版》hacknode.org -- 在线阅读（构建时间：2017-03-17 04:00:03）](https://docs.hacknode.org/gopl-zh/)
 
 
-+ ### go包列表
++ ### Go 包列表
 
 	- [Awesome Go](http://awesome-go.com/)
-	[GitHub](	https://github.com/avelino/awesome-go)
+
+	- [GitHub](https://github.com/avelino/awesome-go)
 
 	- [libhunt](https://go.libhunt.com/)
 
