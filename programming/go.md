@@ -3,7 +3,7 @@
 
 	- [Go Documentation](https://golang.org/doc/)
 
-	- [Go语言中文网翻译](http://docscn.studygolang.com)
+	- [Go 语言中文网翻译](http://docscn.studygolang.com)
 
 + ### 电子书
 
