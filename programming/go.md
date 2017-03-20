@@ -53,3 +53,5 @@
 
 	- [《Effective Go》中英双语版 bingohuang.gitbooks.io](https://bingohuang.gitbooks.io/effective-go-zh-en/content)
 
+	- [Go database/sql tutorial](http://go-database-sql.org/)
+
