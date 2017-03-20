@@ -1,13 +1,9 @@
 
 + ### 官网文档
 
-	- [go 官网](https://golang.org)
+	- [Go Documentation](https://golang.org/doc/)
 
-	- [golang/go Wiki](https://github.com/golang/go/wiki)
-
-	- [Go talks](https://talks.golang.org/)
-
-	- [GO语言中文网翻译](http://docscn.studygolang.com)
+	- [Go语言中文网翻译](http://docscn.studygolang.com)
 
 + ### 电子书
 
@@ -31,7 +27,7 @@
 
 		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线预览（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
 
-		* [《Go语言圣经 中文版》hacknode.org -- 在线预览（构建时间：2017-03-17 04:00:03）](https://docs.hacknode.org/gopl-zh/)
+		* [《Go语言圣经 中文版》hacknode.org -- 在线预览（每天 04:00 构建）](https://docs.hacknode.org/gopl-zh/)
 
 
 + ### Go 包列表
