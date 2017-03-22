@@ -59,4 +59,4 @@
 	
 		* [Go database/sql tutorial](http://go-database-sql.org/)
 		
-		* [Go database/sql tutorial](http://go-database-sql.org/)
+		* [Golang Mysql笔记（二）--- CURD基础](http://www.jianshu.com/p/50c9fbf4046c)
