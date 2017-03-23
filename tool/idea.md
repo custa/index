@@ -11,3 +11,11 @@
 	
 		Enriches Git Integration with additional features
 		
+
+* 配置
+
+
+* 快捷键
+
+
+
