@@ -2,8 +2,11 @@
 * ### 官网文档
 
 	- [Go Documentation](https://golang.org/doc/)
+	
+	- [go-zh](https://go-zh.org/)
 
 	- [Go 语言中文网翻译](http://docscn.studygolang.com)
+	
 
 * ### 电子书
 
