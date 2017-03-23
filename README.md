@@ -25,5 +25,4 @@ Collection of Technology Document.
 
 	- [IntelliJ IDEA / Gogland](/tool/idea.md)
 	
-	
-	
+	- [Git](/tool/git.md)
