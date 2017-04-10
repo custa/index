@@ -12,25 +12,25 @@
 
 	- gopl 英文
 
-		* [《The Go Programming Language》官网](http://www.gopl.io)
+		+ [《The Go Programming Language》官网](http://www.gopl.io)
 
-		* [《The Go Programming Language》 -- 松散格式pdf，书末有代码片段](https://ebooks-it.org/0134190440-ebook.htm)<br/>
+		+ [《The Go Programming Language》 -- 松散格式pdf，书末有代码片段](https://ebooks-it.org/0134190440-ebook.htm)<br/>
 
-		* [《The Go Programming Language》 -- www.it-ebooks.info 标记](http://download.csdn.net/download/vanridin/9444684)<br/>
+		+ [《The Go Programming Language》 -- www.it-ebooks.info 标记](http://download.csdn.net/download/vanridin/9444684)<br/>
 
 	- gopl 中文
 
-		* [《Go语言圣经 中文版》 https://github.com/gopl-zh/gopl-zh.github.com -- 只接受PR](https://github.com/gopl-zh/gopl-zh.github.com)
+		+ [《Go语言圣经 中文版》 https://github.com/gopl-zh/gopl-zh.github.com -- 只接受PR](https://github.com/gopl-zh/gopl-zh.github.com)
 
-		* [《Go语言圣经 中文版》 https://github.com/golang-china/gopl-zh -- 提 issue](https://github.com/golang-china/gopl-zh)
+		+ [《Go语言圣经 中文版》 https://github.com/golang-china/gopl-zh -- 提 issue](https://github.com/golang-china/gopl-zh)
 
-		* [Bitbucket -- 私有仓库](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
+		+ [Bitbucket -- 私有仓库](https://bitbucket.org/golang-china/gopl-zh/wiki/Home)
 
-		* [《Go语言圣经 中文版》gitbook.com/book/wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+		+ [《Go语言圣经 中文版》gitbook.com/book/wizardforcel -- 可下载电子版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
-		* [《Go语言圣经 中文版》ruanjiadeng.com -- 在线预览（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
+		+ [《Go语言圣经 中文版》ruanjiadeng.com -- 在线预览（2016-04-05构建）](https://docs.ruanjiadeng.com/gopl-zh/)
 
-		* [《Go语言圣经 中文版》hacknode.org -- 在线预览（每天 04:00 构建）](https://docs.hacknode.org/gopl-zh/)
+		+ [《Go语言圣经 中文版》hacknode.org -- 在线预览（每天 04:00 构建）](https://docs.hacknode.org/gopl-zh/)
 
 
 * ### Go 包列表
@@ -62,6 +62,18 @@
 
 	- SQL
 	
-		* [Go database/sql tutorial](http://go-database-sql.org/)
+		+ [Go database/sql tutorial](http://go-database-sql.org/)
 		
-		* [Golang Mysql笔记](http://www.jianshu.com/p/340eb943be2e)
+		+ [Golang Mysql笔记](http://www.jianshu.com/p/340eb943be2e)
+
+* ### Go 工具
+	- 代码格式化
+	
+		+ [goimports](https://github.com/golang/tools/tree/master/cmd/goimports)
+	
+	- 代码检查工具
+		
+		+ [tool vet](https://golang.org/cmd/vet/)
+		
+		+ [golint](github.com/golang/lint/golint)
+		
