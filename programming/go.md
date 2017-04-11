@@ -3,9 +3,11 @@
 
 	- [Go Documentation](https://golang.org/doc/)
 	
-	- [go-zh](https://go-zh.org/)
+	- 中文翻译
+	
+		+ [go-zh.org](https://go-zh.org/)
 
-	- [Go 语言中文网翻译](http://docscn.studygolang.com)
+		+ [Go 语言中文网](http://docscn.studygolang.com)
 	
 
 * ### 电子书
