@@ -3,7 +3,7 @@
 
 	- [Go Documentation](https://golang.org/doc/)
 	
-	- 中文 **非官方** 翻译
+	- **非官方** 中文翻译
 	
 		+ [go-zh.org](https://go-zh.org/doc/)
 
