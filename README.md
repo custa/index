@@ -18,7 +18,7 @@ Collection of Technology Document.
 
 ## 编程
 
-- [Go](programming/go.md)
+- [Go](programming/go/go.md)
 
 ## 开发工具
 

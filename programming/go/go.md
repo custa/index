@@ -9,6 +9,11 @@
 
 	+ [Go 语言中文网](http://docscn.studygolang.com/doc/)
 
+## Release History
+
+- [Release History](https://golang.org/doc/devel/release.html)
+
+- [笔记](release.md)
 
 ## 电子书
 
