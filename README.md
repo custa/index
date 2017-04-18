@@ -18,10 +18,10 @@ Collection of Technology Document.
 
 ## 编程
 
-- [Go](/programming/go.md)
+- [Go](programming/go.md)
 
 ## 开发工具
 
-- [IntelliJ IDEA / Gogland](/tool/idea.md)
+- [IntelliJ IDEA / Gogland](tool/idea.md)
 
-- [Git](/tool/git.md)
+- [Git](tool/git.md)
