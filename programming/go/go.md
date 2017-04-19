@@ -90,12 +90,12 @@
 - hystrix-go
 
 	+ [hystrix-go](https://github.com/afex/hystrix-go)
+	
+	+ [Hystrix Home](https://github.com/Netflix/Hystrix/wiki) ([Hystrix 介绍](https://yq.aliyun.com/articles/71094))
 
 	+ [Introducing Hystrix for Resilience Engineering](http://techblog.netflix.com/2012/11/hystrix.html)
 
 	+ [Netflix Hystrix — 应对复杂分布式系统中的延时和故障容错](http://www.infoq.com/cn/news/2013/01/netflix-hystrix-fault-tolerance)
-
-	+ [Hystrix 介绍](https://yq.aliyun.com/articles/71094)
 
 	+ [netflix hystrix介绍 使用](http://www.jianshu.com/p/a4367fc05c5d)
 
