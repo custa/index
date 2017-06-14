@@ -1,4 +1,3 @@
-
 ## 官网文档
 
 - [Go Documentation](https://golang.org/doc/)
@@ -14,6 +13,7 @@
 - [Release History](https://golang.org/doc/devel/release.html)
 
 - [笔记](release.md)
+
 
 ## 电子书
 
@@ -73,6 +73,7 @@
 	
 	+ [Golang Mysql笔记](http://www.jianshu.com/p/340eb943be2e)
 
+
 ## Go 工具
 
 - 代码格式化
@@ -83,7 +84,12 @@
 
 	+ [tool vet](https://golang.org/cmd/vet/)
 
-	+ [golint](github.com/golang/lint/golint)
+	+ [golint](https://github.com/golang/lint/golint)
+
+- 包依赖关系
+	
+	+ [depth](https://github.com/KyleBanks/depth/cmd/depth)
+
 
 ## 框架/库
 
