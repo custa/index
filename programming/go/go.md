@@ -88,7 +88,7 @@
 
 - 包依赖关系
 	
-	+ [depth](https://github.com/KyleBanks/depth/cmd/depth)
+	+ [depth](https://github.com/KyleBanks/depth)
 
 
 ## 框架/库
