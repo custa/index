@@ -73,6 +73,11 @@
 	
 	+ [Golang Mysql笔记](http://www.jianshu.com/p/340eb943be2e)
 
+- System Test
+	
+	+ [Code Coverage for your Golang System Tests -- By Nicolas Ruflin](https://www.elastic.co/blog/code-coverage-for-your-golang-system-tests)
+
+
 
 ## Go 工具
 
